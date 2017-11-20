@@ -13,7 +13,6 @@ a6itajf982g.html
 4tdf058uhi8.html
 onu17t3u6bg.html
 e3vnso5qeh8.html
-5tatake4s8g.html
 92o9ueb98ho.html
 ltcfg0c1cc.html
 10bae.html
