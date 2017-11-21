@@ -5,8 +5,6 @@ binjag6bie.html
 t5884dj3npk.html
 dj4bmiphpio.html
 d8m3c07nht4.html
-bfl60593528.html
-5ptlk3hd7hg.html
 duhs51rdog.html
 af7ukebj7lg.html
 tbisrmq0fl.html
