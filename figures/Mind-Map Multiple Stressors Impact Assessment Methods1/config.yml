@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Mind-Map Multiple Stressors Impact Assessment Methods1/Mind-Map
+      Multiple Stressors Impact Assessment Methods1.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/176118/articles/212065/master/file/figures/Mind-Map%20Multiple%20Stressors%20Impact%20Assessment%20Methods1/Mind-Map%20Multiple%20Stressors%20Impact%20Assessment%20Methods1.png"
