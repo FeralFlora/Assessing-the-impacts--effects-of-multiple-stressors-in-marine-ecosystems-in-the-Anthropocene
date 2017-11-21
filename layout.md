@@ -1,8 +1,6 @@
 abstract.html
 untitled.html
 9ash6nuuauc.html
-rpcdg4mt8ek.html
-9c0k8t8lsss.html
 gf4p64kdbl4.html
 binjag6bie.html
 t5884dj3npk.html
