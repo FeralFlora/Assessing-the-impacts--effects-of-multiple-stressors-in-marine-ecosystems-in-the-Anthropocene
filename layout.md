@@ -18,7 +18,6 @@ qqdrm7u7bnk.html
 evokg4tmnu4.html
 0bec65d152o.html
 ukm2eg5drus.html
-figures/table-criteria1
 eee1mempuno.html
 lvj3q990afs.html
 oubotu10hm8.html
