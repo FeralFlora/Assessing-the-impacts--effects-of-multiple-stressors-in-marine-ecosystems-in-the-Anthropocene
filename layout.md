@@ -12,6 +12,7 @@ om4ftp4u1r.html
 4c2luneu3dg.html
 figures/map
 es3ddrbcga8.html
+figures/Bildschirmfoto 2017-11-24 um 07-23-42
 2k5ssad03b8.html
 g8g3danveb.html
 khb3q267b8o.html
