@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Bildschirmfoto 2017-11-24 um 07-23-42/Bildschirmfoto 2017-11-24
+      um 07-23-42.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/176118/articles/212065/master/file/figures/Bildschirmfoto%202017-11-24%20um%2007-23-42/Bildschirmfoto%202017-11-24%20um%2007-23-42.png"
