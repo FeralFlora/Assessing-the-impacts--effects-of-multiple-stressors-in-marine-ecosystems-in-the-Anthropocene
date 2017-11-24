@@ -6,7 +6,6 @@ figures/OCEAN
 s7ubo03e2jg.html
 figures/Mind-Map Multiple Stressors Impact Assessment Methods1
 4m97gpppud4.html
-mg33i41dteg.html
 rqrb6sd7pp.html
 gmisoho8gcg.html
 7j9kdmg6tug.html
