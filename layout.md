@@ -10,6 +10,7 @@ figures/1
 dp78qjaqbd8.html
 figures/2
 8vllehh0si8.html
+6uqe65a9t98.html
 4c2luneu3dg.html
 figures/map
 es3ddrbcga8.html
