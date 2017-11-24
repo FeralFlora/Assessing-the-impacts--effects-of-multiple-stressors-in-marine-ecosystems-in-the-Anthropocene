@@ -18,3 +18,5 @@ grid:
     - 1
     url: "/users/176118/articles/212065/master/file/figures/table-criteria1/table-criteria1.xlsx"
     folder_url: "/users/176118/articles/212065/master/folder/figures/table-criteria1"
+    maxRows: '3'
+    maxColumns: '3'
