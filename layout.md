@@ -14,7 +14,6 @@ figures/map
 es3ddrbcga8.html
 figures/Bildschirmfoto 2017-11-24 um 07-23-42
 2k5ssad03b8.html
-figures/Criteria table(1)
 4rl87ssc3ok.html
 7j9kdmg6tug.html
 unrpqv4oaj8.html
