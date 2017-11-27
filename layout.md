@@ -17,7 +17,6 @@ figures/Bildschirmfoto 2017-11-24 um 07-23-42
 figures/criteria table 2
 e4vk7cvq8k4.html
 3rp57p0vhbg.html
-tiue8l14hu8.html
 figures/Captura
 sthpcehf88g.html
 51vg6nmqj5.html
