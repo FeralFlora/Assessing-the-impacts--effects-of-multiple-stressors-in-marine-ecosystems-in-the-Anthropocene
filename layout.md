@@ -20,7 +20,6 @@ p939jhtev0g.html
 figures/Captura
 sthpcehf88g.html
 7j9kdmg6tug.html
-unrpqv4oaj8.html
 10bae.html
 l3aqloleqb8.html
 tml1hakjko.html
