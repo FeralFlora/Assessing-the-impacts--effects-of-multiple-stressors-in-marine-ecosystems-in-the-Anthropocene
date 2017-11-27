@@ -18,6 +18,7 @@ figures/criteria table 2
 e4vk7cvq8k4.html
 3rp57p0vhbg.html
 ia3o26cuoo.html
+tiue8l14hu8.html
 figures/Captura
 sthpcehf88g.html
 51vg6nmqj5.html
