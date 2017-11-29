@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 744.17249 978.03247"
+   height="978.03247"
+   width="744.17249"
+   xml:space="preserve"
+   version="1.1"
+   id="svg2"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath12"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path14"
+         d="m 0,0 642.282,0 0,829.37 L 0,829.37 0,0 Z" /></clipPath><clipPath
+       id="clipPath24"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path26"
+         d="m 15,814.37 612.282,0 0,-799.37 L 15,15 15,814.37 Z" /></clipPath><clipPath
+       id="clipPath32"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path34"
+         d="m 1054.547,763.56 -435.769,0 0,7 435.769,0 0,-7 z" /></clipPath><linearGradient
+       id="linearGradient40"
+       spreadMethod="pad"
+       gradientTransform="matrix(-435.76904,0,0,-435.76904,1054.5474,763.56006)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop42"
+         offset="0"
+         style="stop-opacity:1;stop-color:#918f90" /><stop
+         id="stop44"
+         offset="0.86393835"
+         style="stop-opacity:1;stop-color:#ffffff" /><stop
+         id="stop46"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffffff" /></linearGradient><clipPath
+       id="clipPath54"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path56"
+         d="m 183.009,763.56 435.769,0 0,7 -435.769,0 0,-7 z" /></clipPath><linearGradient
+       id="linearGradient62"
+       spreadMethod="pad"
+       gradientTransform="matrix(435.76904,0,0,-435.76904,183.00934,763.56006)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop64"
+         offset="0"
+         style="stop-opacity:1;stop-color:#918f90" /><stop
+         id="stop66"
+         offset="0.86393835"
+         style="stop-opacity:1;stop-color:#ffffff" /><stop
+         id="stop68"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffffff" /></linearGradient><clipPath
+       id="clipPath76"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path78"
+         d="m 183.009,763.56 435.769,0 0,7 -435.769,0 0,-7 z" /></clipPath><linearGradient
+       id="linearGradient84"
+       spreadMethod="pad"
+       gradientTransform="matrix(435.76904,0,0,-435.76904,183.00934,763.56006)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"><stop
+         id="stop86"
+         offset="0"
+         style="stop-opacity:1;stop-color:#918f90" /><stop
+         id="stop88"
+         offset="0.86393835"
+         style="stop-opacity:1;stop-color:#ffffff" /><stop
+         id="stop90"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffffff" /></linearGradient><clipPath
+       id="clipPath108"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path110"
+         d="m 15,814.37 612.282,0 0,-799.37 L 15,15 15,814.37 Z" /></clipPath><clipPath
+       id="clipPath456"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path458"
+         d="m 0,0 642.282,0 0,829.37 L 0,829.37 0,0 Z" /></clipPath></defs><g
+     clip-path="url(#clipPath12)"
+     transform="matrix(1.25,0,0,-1.25,-29.34,1007.3725)"
+     id="g10"><g
+       id="g16"><g
+         id="g18"><g
+           id="g20"><g
+             clip-path="url(#clipPath24)"
+             id="g22"><g
+               id="g28"><g
+                 clip-path="url(#clipPath32)"
+                 id="g30"><g
+                   id="g36"><g
+                     id="g38"><path
+                       id="path48"
+                       style="fill:url(#linearGradient40);stroke:none"
+                       d="m 1054.547,763.56 -435.769,0 0,7 435.769,0 0,-7 z" /></g></g></g></g><g
+               id="g50"><g
+                 clip-path="url(#clipPath54)"
+                 id="g52"><g
+                   id="g58"><g
+                     id="g60"><path
+                       id="path70"
+                       style="fill:url(#linearGradient62);stroke:none"
+                       d="m 183.009,763.56 435.769,0 0,7 -435.769,0 0,-7 z" /></g></g></g></g><g
+               id="g72"><g
+                 clip-path="url(#clipPath76)"
+                 id="g74"><g
+                   id="g80"><g
+                     id="g82"><path
+                       id="path92"
+                       style="fill:url(#linearGradient84);stroke:none"
+                       d="m 183.009,763.56 435.769,0 0,7 -435.769,0 0,-7 z" /></g></g></g></g><g
+               transform="translate(183.2468,763.5601)"
+               id="g94"><path
+                 id="path96"
+                 style="fill:#918f90;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 C 2.523,0 4.569,1.567 4.569,3.5 4.569,5.433 2.523,7 0,7 -2.523,7 -4.569,5.433 -4.569,3.5 -4.569,1.567 -2.523,0 0,0" /></g></g></g></g><text
+         id="text98"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-BoldIt;writing-mode:lr-tb;fill:#918f90;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.2784,764.0072)"><tspan
+           id="tspan100"
+           y="0"
+           x="0 10.248 16.827999 22.8046 28.5446 35.348598 39.520599 45.5826 55.1026 58.168598 67.156601 72.923203 77.403198 81.575203 87.035202 90.9132 96.807198">Overview Articles</tspan></text>
+<g
+         id="g102"><g
+           id="g104"><g
+             clip-path="url(#clipPath108)"
+             id="g106" /></g></g><text
+         id="text112"
+         style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;font-family:'Minion Pro SmBd';-inkscape-font-specification:MinionPro-Semibold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.2784,45.7421)"><tspan
+           id="tspan114"
+           y="0"
+           x="0 4.4369998 8.8739996 13.311 19.278 24.723 27.323999 32.004002 36.566101 40.364101 42.965099 46.835098 51.8661 55.682098">798 BioScience</tspan></text>
+<text
+         id="text116"
+         style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:8px;font-family:'Minion Pro SmBd';-inkscape-font-specification:MinionPro-Semibold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,133.6574,45.7421)"><tspan
+           id="tspan118"
+           y="0"
+           x="0">•</tspan></text>
+<text
+         id="text120"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,139.6253,45.7421)"><tspan
+           id="tspan122"
+           y="0"
+           x="0 5.7059999 10.413 14.247 19.08 22.023001 24.785999 26.847 31.139999 35.432999 39.726002 44.019001 46.080002 48.978001 51.039001 56.2761 60.4161 62.657101 64.772102 66.833099 71.126099 75.419098 77.480103 83.563202 87.4422 89.557198 91.618202">August 2015 / Vol. 65 No. 8</tspan></text>
+<text
+         id="text124"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,445.3319,45.7421)"><tspan
+           id="tspan126"
+           y="0"
+           x="0 4.401 7.164 9.9090004 14.283 16.398001 19.296 22.194 26.4771 28.8981 33.0741 36.134102 39.572102 41.993099 45.584099 50.309101 53.684101 57.266102 59.3811 63.4491 67.7061 70.055099 74.195099 77.3181 81.773102 84.149101 88.289101 92.969101 96.344101 101.0691 105.3801 107.6562 110.6811 112.7961 116.9352 120.1662">http://bioscience.oxfordjournals.org</tspan></text>
+<text
+         id="text128"
+         style="font-variant:normal;font-stretch:normal;font-size:28px;font-family:'ITC Franklin Gothic Std Heavy';-inkscape-font-specification:ITCFranklinGothicStd-Hvy;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,709.7274)"><tspan
+           id="tspan130"
+           y="0"
+           x="0 18.48 34.720001 45.919998 62.16 72.800003 89.599998 105.84 122.64 137.75999 154.56 170.8 187.60001 196.84 215.32001 231.56 246.67999 263.48001 271.88 280.28 296.51999 313.32001 328.44 336.84 346.07999 364.56 379.67999 394.79999 411.60001 426.72 441.84 450.23999 466.48001 482.72">Anthropocene Baselines: Assessing </tspan></text>
+<text
+         id="text132"
+         style="font-variant:normal;font-stretch:normal;font-size:28px;font-family:'ITC Franklin Gothic Std Heavy';-inkscape-font-specification:ITCFranklinGothicStd-Hvy;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,673.7274)"><tspan
+           id="tspan134"
+           y="0"
+           x="0 18.48 34.720001 50.959999 67.199997 83.440002 100.24 109.48 125.72 141.96001 158.2 167.44 191.52 207.75999 224 240.24001 256.48001 264.88 281.12 297.35999 306.60001 325.07999 333.48001 350.28 366.51999 374.92001 390.04001 406.84 417.89719 433.01721 441.41721 452.61719 467.73721">Change and Managing Biodiversity </tspan></text>
+<text
+         id="text136"
+         style="font-variant:normal;font-stretch:normal;font-size:28px;font-family:'ITC Franklin Gothic Std Heavy';-inkscape-font-specification:ITCFranklinGothicStd-Hvy;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,637.7274)"><tspan
+           id="tspan138"
+           y="0"
+           x="0 8.3999996 24.639999 33.880001 52.919998 69.720001 93.800003 110.04 126.28 133.56 152.60001 169.39999 193.48 201.88 218.12 234.36 245.56 262.35999 278.60001 287.84 306.32001 322.56 339.35999 355.60001 366.79999 375.20001 390.32001">in Human-Dominated Aquatic </tspan></text>
+<text
+         id="text140"
+         style="font-variant:normal;font-stretch:normal;font-size:28px;font-family:'ITC Franklin Gothic Std Heavy';-inkscape-font-specification:ITCFranklinGothicStd-Hvy;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,601.7274)"><tspan
+           id="tspan142"
+           y="0"
+           x="0 16.799999 31.92 48.720001 63.84 77.980003 93.099998 104.3 121.1 145.17999">Ecosystems</tspan></text>
+<text
+         id="text144"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'ITC Franklin Gothic Std Book';-inkscape-font-specification:ITCFranklinGothicStd-Book;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,553.7274)"><tspan
+           id="tspan146"
+           y="0"
+           x="0 6.165 9.4499998 13.005 19.17 24.795 29.879999 34.965 40.59 46.755001 50.310001 56.25 62.775002 68.400002 72.18 75.014999 78.57 84.735001 88.019997 91.574997 99.540001 105.165 110.61 114.165 119.07 121.995 128.52 133.605 138.465 144.09 150.255 156.78 163.30499 166.14 169.69501 174.87 180.495 186.84 191.925 195.48 202.005 208.35001 216.315 221.94 228.465 234.63 237.55499 243.17999 249.345 252.17999 255.735 262.26001 267.88501 270.81 275.89499 279.45001 285.61499 288.89999 292.45499 298.62 301.54501 309.51001 315.67499 318.51001 322.065 327.69 334.215 340.73999 344.29501 350.45999 356.08499 361.17001 365.08499 370.70999 374.26501 380.79001 385.875 391.5 397.66501 403.29001">R. KELLER KOPF, C. MAX FINLAYSON, PAUL HUMPHRIES, NEIL C. SIMS, AND SALLY HLADYZ</tspan></text>
+<text
+         id="text148"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,517.7274)"><tspan
+           id="tspan150"
+           y="0"
+           x="0 6.0570002 8.2620001 12.375 16.712999 21.024 23.264999 26.721001 30.2661 33.641998 37.817101 40.778099 44.738098 47.681099 50.354099 53.945099 61.0191 64.052101 67.508102 72.044098 76.247101 80.2332 83.833199 87.2892 90.2052 94.651199 97.000198 99.4842 102.1572 105.7032 110.2752 113.7312 116.2422 119.3652 123.5052 130.5882 134.0442 138.4902 140.9823 143.92529 146.5983 150.7383 154.1133 156.5343 159.9093 164.22031 166.4613 169.9173 173.2923 177.4323 182.1573 186.6123 188.9433 191.62531 194.0463 198.18629 202.9653 205.9893 208.10429 211.5603 215.8443 220.5153 223.27831 226.7343 229.06531 231.82829 235.2843 237.7773 240.8103 244.2663 248.9463 253.6713 257.00131 259.2063 262.75229 267.01831 270.31229 273.76831 276.2793 279.40231 283.5423 290.62531 294.0813 300.08521 304.6203 308.83231 311.59531 315.0513 319.38931 323.79031 326.85031 330.3063 332.4303 334.77029 339.4953 343.02328 346.0563 349.5123 352.8414 357.37741 361.64429 366.31531 370.0863 373.68631 377.1423 380.05829 384.5943 388.73431 393.4863 395.69131 400.26331 403.7193 408.05731 411.65729 415.11331 419.51431 422.45731 425.5173 429.04529 431.98831 435.04831 438.5943 443.16629 445.28131 448.7373 453.0033 456.44131 458.8623 462.45331 467.0433 469.72531 472.21829 475.16129 477.92429 480.95731 484.4133 488.67929 493.4043 497.97629">Global ecosystems have shifted from historical conditions, but it is unclear from what baselines change should be assessed. Scientists and </tspan></text>
+<text
+         id="text152"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,507.7274)"><tspan
+           id="tspan154"
+           y="0"
+           x="0 7.02 11.286 16.011 20.277 24.048 27.639 30.896999 33.93 36.756001 41.292 45.494999 49.481998 53.082001 55.908001 58.248001 62.973 66.411003 69.533997 73.080002 77.481003 80.424004 82.764 87.434998 91.233002 93.338997 97.317001 100.143 104.4891 107.8641 111.2391 114.804 119.0691 121.743 125.289 129.86099 132.687 135.369 139.905 143.505 146.33099 148.67101 155.61 159.948 164.12399 167.067 170.00999 172.341 176.625 179.037 181.161 183.492 186.27299 190.25101 193.077 197.20799 199.647 202.47301 205.59599 209.133 211.815 216.495 219.87 224.505 226.845 231.51601 235.29601 238.12199 241.668 245.043 249.21899 252.17999 256.1391 259.08209 261.7551 265.34698 272.4201 275.45309 278.27911 280.95209 285.1821 288.00809 292.41809 295.24411 298.41211 302.69611 306.07019 308.5632 311.5062 314.1882 316.5282 321.25409 324.34109 327.79709 330.62311 333.5661 336.23911 340.45111 343.12411 346.72409 348.83911 351.6651 356.20111 360.31409 366.30811 369.94409 373.93109 377.52209 380.1861 382.30109 385.12711 389.57309 392.06519 395.00821 397.68121 401.8212 405.1962 407.61719 410.99219 415.30319 417.54419 420.37021 423.74521 427.88519 432.6102 437.06519 439.39621 442.07819 444.49921 448.63919 453.41821 456.4512 459.27719 462.40021 465.99121 473.0112 477.27719 479.61719 484.40521 487.2312 489.91321 494.44919 498.04919">managers have increasingly accepted the impossibility of returning ecosystems to a “pristine” state; however, historical conditions remain the </tspan></text>
+<text
+         id="text156"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,497.7274)"><tspan
+           id="tspan158"
+           y="0"
+           x="0 3.375 7.5149999 10.89 15.615 19.205999 22.464001 25.407 28.08 32.220001 36.945 40.544998 42.858002 45.207001 49.347 52.640999 54.953999 58.077 61.605 64.547997 67.221001 71.361 74.484001 78.695999 81.377998 83.799004 87.939003 92.726097 95.039101 99.305099 104.0301 108.6021 110.9151 117.9351 122.2011 126.9261 131.19209 134.9631 138.55409 145.5741 149.1651 153.7551 156.4812 158.59621 160.90919 168.6123 172.2123 174.5253 178.12531 182.38139 186.66541 188.87041 193.01041 196.13341 199.7334 202.0464 204.72839 209.2644 212.8644 215.1774 218.3004 222.51241 225.1944 227.6154 231.7554 236.48039 240.7914 242.9964 246.59641 248.90939 253.24741 256.7034 261.14941 263.48941 268.21439 272.78641 275.0994 277.7814 282.31741 285.91739 288.23041 292.54141 296.83441 301.11841 303.2424 305.66339 309.03839 313.2504 315.9324 318.35251 322.49249 327.2796 329.59259 333.7236 336.16171 338.4747 342.92068 345.41281 348.3558 351.02881 355.16879 358.54379 360.96481 364.33981 368.65079 370.89182 373.2048 377.54279 381.94379 385.0029 388.45889 390.58289 392.92291 397.6488 401.1759 404.20889 406.52191 409.19489 413.4249 415.73792 419.28299 422.65799 426.83401 429.79501 433.755 436.698 439.371 442.96201 450.04501 452.358 459.37799 463.64401 468.36899 472.63409 476.40509 479.99701 487.017 490.60709 495.198 497.96011">cornerstone for restoration and management. We explore the rationale behind the application of historical baselines to ecosystem management </tspan></text>
+<text
+         id="text160"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,487.7274)"><tspan
+           id="tspan162"
+           y="0"
+           x="0 4.2659998 8.9910002 13.563 16.488001 20.771999 23.895 28.044001 32.382 36.557999 39.618 43.217999">and propose </tspan></text>
+<text
+         id="text164"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,117.4186,487.7274)"><tspan
+           id="tspan166"
+           y="0"
+           x="0 6.1919999 10.944 13.743 18.549 21.771 26.261999 31.059 35.73 39.536999 43.362 48.2481">Anthropocene</tspan></text>
+<text
+         id="text168"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,172.4168,487.7274)"><tspan
+           id="tspan170"
+           y="0"
+           x="0 4.3379998 8.7390003 11.799 15.255 17.379 19.719 24.444 27.972 31.004999 33.93 38.331001 41.363998 44.289001 48.699001 51.624001 54.999001 59.139 63.863998 67.238998 70.803001 75.069 77.832001 80.757004 83.43 87.660004 90.584999 94.869003 97.991997 102.105 106.2441 108.6651 113.2011 116.8011 119.7261 123.9921 128.78011 131.70509 134.0451 140.9841 145.2681 148.3911 152.5041 156.4911 160.03709 164.6091 167.5341 171.8721 176.2731 179.21609 181.70911 184.7421 187.6671 190.0161 194.1561 197.4501 200.37511 203.0571 207.59309 211.1931 214.1181 221.13811 225.4041 230.1291 234.3951 238.16611 241.7571 248.7771 252.3681 256.9581 259.7211 262.64609 266.7771 269.21609 272.14111 276.5871 281.26709 288.28711 292.5531 297.34109 300.34711 304.88309 309.0231 315.95309 318.29309 323.0181 327.2301 329.90311 333.4491 338.02109 340.94611 344.4921 347.8671 352.04309 355.00409 358.96411 361.9071 364.58011 368.17111 375.24509 378.2691 380.38409 383.30911 388.72711 393.26309 396.8631">baselines as a concept to provide an improved basis for the management of human-dominated ecosystems. The </tspan></text>
+<text
+         id="text172"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,477.7274)"><tspan
+           id="tspan174"
+           y="0"
+           x="0 6.1919999 10.944 13.743 18.549 21.771 26.261999 31.059 35.73 39.536999 43.362 48.2481">Anthropocene</tspan></text>
+<text
+         id="text176"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,125.4103,477.7274)"><tspan
+           id="tspan178"
+           y="0"
+           x="0 4.3379998 8.7390003 11.799 15.255 17.379 19.719 24.444 27.972 31.004999 33.066002 36.441002 40.581001 45.306 48.681 52.244999 56.511002 59.273998 61.334999 64.926003 71.864998 76.149002 80.684998 85.085999 88.028999 90.486 94.275002 97.803001 100.836 102.897 105.579 110.115 113.715 115.776 119.151 123.291 128.07001 131.13 134.72099 138.19501 142.18201 146.394 149.076 151.49699 155.63699 160.425 162.48599 166.47301 170.784 172.908 177.66901 181.269 183.33 187.461 189.89999 191.961 194.64301 199.179 202.77901 204.84 207.963 211.554 218.48399 223.209 227.47501 232.065 234.828 237.86099 239.922 244.05299 246.492 248.55299 252.99899 255.492 258.435 261.108 265.24799 268.6221 271.04309 274.41809 278.7291 280.97009 283.0311 286.57709 289.95209 294.12811 297.08911 301.0491 303.9921 306.6651 310.2561 317.33011 320.3631 322.4241 326.7081 331.37909 334.14209 336.20309 339.57809 343.71811 348.41611 350.92709 354.05011 358.19009 362.78009 365.54309 368.57611 370.63708 373.31909 377.8551 381.45511 383.51611 386.6391 390.18509 394.49609 396.62009 398.95111 401.73209 405.71011 407.77109 410.45309 414.98911 419.20111 421.96411 424.02509 431.0451 435.3111 439.87411 443.85211">baselines concept emphasizes the conservation value of the remnants of historical ecosystems but confronts the reality that many </tspan></text>
+<text
+         id="text180"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,467.7274)"><tspan
+           id="tspan182"
+           y="0"
+           x="0 3.546 6.921 11.097 14.058 18.018 20.961 23.634001 27.225 34.299 37.332001 39.438 42.813 47.078999 51.714001 56.438999 60.561001 63.324001 71.487 75.626999 78.920998 81.027 87.174004 89.585999 91.781998 94.023003 96.128998 100.8549 104.976 107.739 115.902 120.24 123.84 125.946 129.069 132.597 135.53999 138.213 142.3521 145.4751 149.022 153.59399 155.7 158.373 162.603 164.709 169.155 171.64799 174.591 177.26401 181.40401 184.77901 187.2 190.575 194.886 197.127 199.233 202.356 206.62199 211.293 215.064 218.592 221.625 223.731 227.862 230.30099 232.407 236.394 240.66 244.035 246.45599 250.668 254.952 257.36401 259.48801 261.819 264.60001 268.01999 270.13501 272.241 274.905 279.69299 281.79901 285.939 289.06201 293.59799 297.189 300.483 302.58899 305.26199 309.492 311.59799 315.88199 319.005 322.64099 326.62799 330.21899 334.80899 337.57199 339.67801 342.189 346.86899 350.33401 353.01599 357.552 361.14301 364.43701 366.543 371.22299 375.78601 381.78 386.04599 390.63599 393.30899 396.85501 401.427 403.53299 406.86301 411.39899 415.66501 420.336 424.10699 427.63501 430.668 432.77399 435.44699 439.677 441.78299 446.06699 448.48801 452.68201 457.13699 459.45901 463.44601 467.03699 470.29501 473.23801 475.569 478.35001 482.328 484.43399 488.70001 493.42499 497.99701">ecosystems cannot—or will not—be restored to historical ranges of variability. In order to prevent further unwanted changes to biodiversity and </tspan></text>
+<text
+         id="text184"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,457.7274)"><tspan
+           id="tspan186"
+           y="0"
+           x="0 3.546 6.921 11.097 14.058 18.018 20.961 23.634001 27.225 34.307999 37.386002 40.445999 44.036098 47.510101 51.650101 54.071098 57.446098 60.974098 63.9981 66.113098 69.191101 75.185097 78.785103 81.863098 84.806099 89.5131 93.446098 97.217102 100.7451 103.6881 106.4511 109.5291 112.2111 116.7471 120.9591 123.7221 126.8001 129.4821 134.0181 137.6181 140.69611 147.71609 151.9821 156.70799 160.974 164.74409 168.336 175.356 178.94701 183.537 186.3 189.37801 193.509 195.948 199.026 203.472 208.15199 215.172 219.438 224.226 227.23199 231.76801 235.908 242.838 245.17799 249.903 254.11501 256.78799 260.33401 264.90601 267.98401 271.53 274.905 279.08099 282.04111 286.0011 288.94409 291.6171 295.2081 302.2821 305.31509 308.3931 315.32309 320.1561 323.09909 325.86209 328.94009 335.96011 340.07309 344.06009 347.6601 350.7381 355.07611 358.7121 362.65411 366.7941 371.5191 376.09109 379.1691 383.61511 386.10809 389.05109 391.72409 395.86411 399.23911 401.6601 405.0351 409.3461 411.5871 414.6651 418.0401 422.18011 426.95911 429.9021 432.58411 435.70709 439.97311 442.31311 446.90311 449.66611 452.6991 455.7771 458.4501 462.56311 468.5571 472.82309 475.94611 480.5181 483.5961 488.32111 491.95709 497.98709">ecosystem services, we suggest that the management of human-dominated ecosystems must move beyond historical constraints toward new </tspan></text>
+<text
+         id="text188"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,447.7274)"><tspan
+           id="tspan190"
+           y="0"
+           x="0 4.3379998 8.4779997 10.818 15.408 18.171 21.204 23.472 27.603001 30.042 32.310001 35.432999 39.023998 41.373001 44.964001 48.087002 51.678001 56.403 59.778 63.377998 65.646004 70.100998 72.522003 75.996002 78.668999 82.880997 85.554001 89.099998 93.671997 95.940002 100.1961 104.1741 106.4421 109.5021 113.6961 117.1341 119.5551 123.8661 126.1071 130.6071 134.15311 137.52811 141.66811 143.87309 148.0941 151.9281 154.34911 157.72411 162.0351 164.27609 166.5441 169.48711 174.3201 177.26311 179.9361 184.2021 186.5421 191.26711 195.4791 199.76311 202.17509 204.2991 206.631 209.4111 212.8311">points of reference dictated by social–ecological sustainability.</tspan></text>
+<text
+         id="text192"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,427.7274)"><tspan
+           id="tspan194"
+           y="0"
+           x="0 5.6430001 9.2790003 13.338 19.332001 23.472 26.594999 31.202999 34.236 36.351002 38.618999 41.993099 44.315102 48.302101 51.893101 55.187099 57.455101 60.578098 64.106102 67.049103 69.722099 73.862099 76.9842 81.196198 83.878197 86.299202 90.439201 95.227203 97.342201 99.610199 102.7332 106.2522 110.0862 112.4262 119.4462 123.0453 125.3133 128.22929 132.67529 135.02431 137.5083 140.23531 142.3494 144.6174 147.7404 151.2684 154.2114 156.6234 158.74741 161.1684 164.7594 169.48441 172.85941 176.44141 178.5555 180.8235 185.13451 187.2495 189.9225 193.5135 196.8885 201.61349 205.8255 208.50751 210.8295 214.8165 218.4165 220.68449 223.6275 226.30051 230.5125 234.79649 237.0015 240.6015 242.86951 245.8125 248.4855 252.69749 255.3705 258.95251 261.0675 263.33551 268.06049 272.17349 276.16049 279.61649 281.8566 284.1246 287.67059 291.04559 295.22159 298.18259 302.14261 305.0856 307.75861 311.34961">Keywords: river restoration, regime shift, resilience, alternative stable state, novel ecosystem</tspan></text>
+<text
+         id="text196"
+         style="font-variant:normal;font-stretch:normal;font-size:27.49270058px;font-family:'ITC Franklin Gothic Std Heavy';-inkscape-font-specification:ITCFranklinGothicStd-Hvy;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,379.7011)"><tspan
+           id="tspan198"
+           y="0"
+           x="0">W</tspan></text>
+<text
+         id="text200"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'ITC Franklin Gothic Std Book';-inkscape-font-specification:ITCFranklinGothicStd-Demi;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,96.2943,391.7011)"><tspan
+           id="tspan202"
+           y="0"
+           x="0 5.1500001 8.5 10.85 16 19.23 24.58 29.58 34.130001 39.279999 42.578999 47.729 55.679001 60.828999 65.978996 69.528999 74.278999 77.509003 82.658997 87.558998 92.109001 97.259003 100.489 105.639 110.989 114.139 119.289 124.439 129.589 132.819 136.369 141.519 144.74899 148.299 153.44901 156.599 161.94901 167.099 170.649 175.399 178.629 182.179 187.32899 192.479 196.02901 199.259 204.409 206.759 214.959 217.942">orld governments have agreed to targets that aim  </tspan></text>
+<text
+         id="text204"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,96.2943,379.7011)"><tspan
+           id="tspan206"
+           y="0"
+           x="0 2.8900001 7.8899999 10.15 14.49 16.969999 19.4 23.629999 28.188999 30.799 34.898998 37.789001 41.938999 44.199001 47.209 52.408001 56.557999 58.818001 63.467999 65.898003 70.848 75.876999 80.217003 82.647003 84.906998 89.766998 92.347 97.435997 102.616 105.126 109.576 113.726 117.276 120.846 123.306 126.286 130.776 133.036 137.166 140.836 143.386 146.95599 149.506 153.076 155.336 159.536 164.866 170.04601 172.306 175.196 180.196 182.45599 185.036 192.936 197.95599 201.436 206.276 210.726 214.97501">to alleviate the global biodiversity crisis and to improve </tspan></text>
+<text
+         id="text208"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,367.7011)"><tspan
+           id="tspan210"
+           y="0"
+           x="0 3.01 8.21 12.36 16.094 18.524 21.034 25.483999 29.594 32.023998 34.653999 39.854 44.943001 50.033001 55.213001 58.948002 63.147999 68.477997 73.657997 77.392998 79.822998 84.702003 89.991997 94.571999 98.031998 100.922 105.072 108.742 116.832 120.567 124.087 129.267 132.787 135.797 139.99699 142.577 147.91701 152.127 156.987 159.616 162.04601 164.506 167.48599 171.976 175.711 180.591 183.451 187.186 192.23599 197.446 205.506 209.70599 214.996 218.56599 220.746 224.48 230.55 235.75 240">the livelihood and long-term sustainability of humans. The </tspan></text>
+<text
+         id="text212"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,355.7011)"><tspan
+           id="tspan214"
+           y="0"
+           x="0 5.2399998 7.8200002 12.469 17.709 20.018999 25.198999 29.349001 33.979 37.459 41.659 45.808998 48.118999 52.999001 55.859001 58.168999 63.219002 68.429001 76.488998 80.689003 86.058998 88.369003 93.549004 97.698997 102.929 107.079 112.409 117.589 121.739 127.069 131.19901 135.349 137.659 142.539 147.909 150.21899 155.07899 157.659 162.74899 167.929 170.439 174.88901 179.039 182.589 186.159 188.619 191.599 196.089 198.399 200.948 204.51801 206.828 209.59801 214.478 218.14799 226.20799 230.548 233.02699 235.38699 239.97701">high degree of human dependence on biodiversity is formally </tspan></text>
+<text
+         id="text216"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,343.7011)"><tspan
+           id="tspan218"
+           y="0"
+           x="0 3.48 7.6799998 11.81 16.809999 21.440001 26.809999 29.389999 33.490002 37.689999 42.869999 44.759998 49.580002 54.07 55.959999 58.970001 64.169998 68.32 70.209999 77.040001 82.410004 84.870003 87.760002 91.959 97.139 99.028999 106.099 110.199 113.199 115.779 120.659 125.949 129.519 131.69901 133.589 136.599 141.839 145.319 150.209 155.41901 160.069 165.30901 167.19901 170.20799 175.408 179.558 181.448 188.14799 193.028 198.168 202.618 206.76801 211.948 214.94701 217.52699 222.407 227.77699 229.66701 234.547 240.017">recognized by the United Nations, through the Convention on </tspan></text>
+<text
+         id="text220"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,331.7011)"><tspan
+           id="tspan222"
+           y="0"
+           x="0 5.6999998 8.2799997 13.21 15.64 20.639999 25.268999 27.849001 32.008999 36.348999 38.778999 40.918999 48.168999 50.679001 55.129002 59.278999 62.827999 66.398003 68.858002 71.837997 75.598 77.778 79.917999 82.928001 88.127998 92.278 94.417999 103.158 105.787 108.267 110.697 114.847 120.217 125.587 128.04601 133.256 141.34599 143.48599 150.795 155.02499 159.47501 163.58501 166.015 170.905 175.925 183.97501 188.125 193.30499 196.255 198.395 205.52499 210.57401 214.914 217.314 220.884 223.064 225.20399 229.40401 234.73399 240.01401">Biological Diversity, the Millennium Development Goals, and </tspan></text>
+<text
+         id="text224"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,319.7011)"><tspan
+           id="tspan226"
+           y="0"
+           x="0 3.01 8.21 12.36 15.82 22.6 25.18 29.249001 34.488998 37.069 40.528999 45.028999 48.028999 51.639 55.738998 58.629002 62.778999 67.408997 69.988998 74.119003 77.579002 83.058998 85.518997 89.718002 95.087997 98.547997 101.319 106.198 109.808 113.268 118.968 121.548 126.638 131.81799 134.328 138.778 142.92799 146.47701 150.047 152.507 155.487 159.97701 163.437 168.13699 172.83701 177.537 182.237 187.33701 192.037 196.737 201.437 206.13699 209.597 212.957 219.787 225.157 227.617 230.506 234.70599 239.98599">the Aichi Strategic Plan for Biodiversity 2011–2020 (United </tspan></text>
+<text
+         id="text228"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,307.7011)"><tspan
+           id="tspan230"
+           y="0"
+           x="0 7.0700002 11.17 14.17 16.75 21.629999 26.92 30.49 32.869999 37.57 42.27 46.970001 51.669998 55.029999 57.209999 59.59 64.800003 68.949997 72.559998 74.940002 80.150002 85.519997 87.980003 90.93 93.309998 98.190002 101.05 103.43 108.64 112.85 117.71 120.17 123.18 127.28 130.23 132.61 136.81 140.28999 144.49899 148.789 150.96899 153.349 156.30901 159.789 163.939 167.468 172.478 179.228 183.328 186.218 190.368 193.978 196.358 200.55701 204.687 209.687 213.257 217.74699 221.267 224.157 228.30701 236.317 239.987">Nations 2010). Per unit of habitat area, freshwater ecosystems </tspan></text>
+<text
+         id="text232"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,295.7011)"><tspan
+           id="tspan234"
+           y="0"
+           x="0 4.1999998 7.6799998 11.83 16.879999 21.08 29.129999 34.009998 39.299999 43.880001 48.93 51.939999 57.139999 61.290001 66.339996 74.389 79.389 82.908997 85.859001 90.908997 96.088997 98.598999 103.049 107.199 110.749 114.399 118.549 123.599 127.799 133.129 138.30901 143.35899 148.409 153.619 161.679 165.87801 171.248 174.70799 179.048 181.358 184.248 188.39799 191.87801 196.078 201.258 206.308 210.45799 215.59801 220.158 222.73801 226.218 231.09801">are among the most diverse and human-altered environ</tspan></text>
+<text
+         id="text236"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,307.7173,295.7011)"><tspan
+           id="tspan238"
+           y="0"
+           x="0">-</tspan></text>
+<text
+         id="text240"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,283.7011)"><tspan
+           id="tspan242"
+           y="0"
+           x="0 8.0500002 12.2 17.379 20.329 23.899 28.839001 33.719002 39.089001 44.028999 47.037998 52.237999 56.388 61.327999 66.398003 68.858002 73.057999 78.388 82.538002 85.487999 90.428001 93.788002 98.858002 103.698 108.318 113.258 117.958 120.138 125.078 128.088 132.297 137.207 139.63699 143.787 148.72701 153.427 156.787 158.967 163.907 169.537 174.157 177.047 181.19701 186.48599 190.056 192.565 197.015 201.16499 206.105 211.175 216.185 220.675 224.245 226.825 230.985 235.325 237.69501 239.97501">ments on the planet (box 1, table 1). Extensive physical, </tspan></text>
+<text
+         id="text244"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,271.7011)"><tspan
+           id="tspan246"
+           y="0"
+           x="0 4.0700002 9.2700005 13.42 21.51 24.09 28.25 32.59 34.959999 37.139999 39.044998 43.244999 48.575001 53.755001 55.665001 60.525002 63.105 67.995003 70.995003 73.574997 77.705002 79.614998 82.614998 86.224998 90.425003 95.714996 99.285004 102.054 106.935 110.604 118.664 122.764 125.764 128.34399 133.224 138.51401 142.084 143.989 146.569 151.939 153.849 156.80901 160.289 164.439 167.96899 172.979 179.729 183.82899 186.71899 190.869 194.479 196.384 200.584 204.714 209.714 213.284 217.774 221.29401 224.183 228.33299 236.343 240.013">chemical, and biotic transformations in freshwater ecosystems </tspan></text>
+<text
+         id="text248"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,259.7011)"><tspan
+           id="tspan250"
+           y="0"
+           x="0 3.3599999 12.1 14.73 17.209 19.639 23.789 29.159 34.528999 36.988998 42.199001 50.289001 54.629002 60.258999 64.389 69.389 72.959 77.448997 80.969002 83.859001 88.009003 96.098999 100.439 107.089 110.609 114.259 118.409 121.929 125.499 133.548 137.698 142.87801 145.828 150.168 154.868 159.56799 164.26801 168.968 171.14799 175.48801 182.127 186.327 190.037 195.267 199.41701 204.59599 207.48599 211.636 215.246 219.586 223.73599 226.686 231.024 235.364 237.73399 240.013">(Millennium Ecosystem Assessment 2005, Carpenter et al. </tspan></text>
+<text
+         id="text252"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,247.7011)"><tspan
+           id="tspan254"
+           y="0"
+           x="0 4.6999998 9.3999996 14.1 18.799999 22.16 24.59 29.799999 33.91 38.360001 42.509998 44.939999 50.119999 54.27 62.32 67.199997 72.489998 76.010002 79.010002 82.620003 86.720001 89.610001 93.809998 98.989998 101.42 104.43 109.64 113.74 116.69 119.12 127.18 131.38 136.52 141.00999 143.44 148.49001 153.7 161.759 165.959 171.32899 174.789 177.369 182.69901 187.759 192.96899 197.099 201.298 206.478 208.908 212.978 218.188 222.388 227.67799 232.177 236.327 239.99699">2011) have demonstrated that many human-induced changes </tspan></text>
+<text
+         id="text256"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,235.7011)"><tspan
+           id="tspan258"
+           y="0"
+           x="0 4.1999998 7.6799998 11.83 15.69 20.709999 24.32 28.610001 32.810001 35.808998 38.389 42.549 46.889 49.368 51.728001 56.217999 60.077999 62.658001 66.327003 69.806999 74.037003 78.487 82.637001 86.186996 89.757004 92.295998 97.206001 99.636002 103.786 107.646 111.006 117.646 121.846 125.556 130.786 134.936 140.11501 143.005 147.155 150.765 154.625 158.77499 161.72501 165.58099 169.92101 172.291 174.47099 178.33099 183.03101 187.731 192.431 197.131 199.311 203.17101 210.481 215.321 222.101 227.47099 230.05099 235.341 240.02">are practically irreversible (Carpenter et al. 1999, Downing </tspan></text>
+<text
+         id="text260"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,223.7011)"><tspan
+           id="tspan262"
+           y="0"
+           x="0 4.1500001 7.0999999 9.4969997 13.836 16.205999 18.386 20.785999 25.486 30.186001 34.886002 39.585999 41.765999 44.166 51.476002 56.425999 61.355999 66.335999 69.905998 72.306 81.545998 88.916 91.316002 95.466003 98.416 100.813 105.153 107.523 109.703 112.103 116.803 121.503 126.203 130.903 133.08299 135.483 144.033 148.873 153.433 155.86301 160.013 162.41299 167.11301 171.813 176.513 181.213 184.573">et al. 2012, Hobbs WO et al. 2012, Moyle 2014).</tspan></text>
+<text
+         id="text264"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,81.276,211.7011)"><tspan
+           id="tspan266"
+           y="0"
+           x="0 6.9099998 9.3900003 13.1 17.299 22.419001 25.099001 30.429001 32.889 37.479 39.959 44.209 48.929001 54.217999 58.518002 63.948002 69.227997 71.907997 77.297997 81.977997 84.458 88.758003 92.337997 96.648003 101.038 103.518 108.498 111.458 113.938 117.518 121.768 125.517 129.827 134.127 137.707 141.877 147.217 149.69701 153.99699 156.677 164.786 168.45599 170.936 173.92599 179.026 181.506 184.186 189.466 193.716 198.995 202.095 204.77499 207.905 212.495 214.97501 219.27499 224.705 229.985">A rapidly expanding area of research aims to identify and </tspan></text>
+<text
+         id="text268"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,199.7011)"><tspan
+           id="tspan270"
+           y="0"
+           x="0 5.1199999 8.6999998 13 18.280001 20.959999 25.259001 28.309 30.919001 34.028999 39.328999 43.578999 46.188999 48.868999 54.299 58.528999 61.209 66.488998 70.738998 76.168999 80.399002 84.587997 86.867996 89.477997 92.008003 97.197998 101.458 105.658 108.758 111.438 116.418 121.888 124.168 126.778 129.877 132.55701 140.74699 143.427 148.817 153.49699 156.10699 160.407 165.83701 171.117 173.72701 177.97701 181.037 183.907 188.207 192.506 195.556 199.226 201.836 206.81599 209.776 212.386 215.966 220.216 224.946 227.62601 235.776 240.026">predict the incidence, location, timing and effects of regime </tspan></text>
+<text
+         id="text272"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,187.7011)"><tspan
+           id="tspan274"
+           y="0"
+           x="0 3.6300001 8.9700003 11.65 14.67 17.719999 21.389999 23.67 25.805 30.785 33.805 36.793999 41.043999 46.514 48.648998 52.229 56.479 59.348999 63.598999 67.369003 70.948997 75.249001 80.528999 82.664001 85.653999 90.753998 92.889 97.249001 100.919">shifts, often referred to as </tspan></text>
+<text
+         id="text276"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,174.3301,187.7011)"><tspan
+           id="tspan278"
+           y="0"
+           x="0 3.9400001 7.6900001 12.33 15.62 20.018999 23.289 26.259001 30.249001 38.118999 40.269001 44.019001 48.618999 51.058998 53.508999 58.299 63.098 66.498001 70.417999">ecosystem collapses</tspan></text>
+<text
+         id="text280"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,250.2582,187.7011)"><tspan
+           id="tspan282"
+           y="0"
+           x="0 4.98 8.6899996">or </tspan></text>
+<text
+         id="text284"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,261.0834,187.7011)"><tspan
+           id="tspan286"
+           y="0"
+           x="0 3.27 6.2399998 10.92 13.89 17.889999 20.040001 23.74 28.780001 33.52 38.709999 42.900002 46.82">state changes</tspan></text>
+<text
+         id="text288"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,175.7011)"><tspan
+           id="tspan290"
+           y="0"
+           x="0 3.46 8.3400002 12.51 17.809999 22.059999 25.120001 27.99 32.240002 35.950001 39.279999 43.529999 46.580002 49.91 54.349998 56.82 59.099998 62.43 67.230003 72.029999 76.830002 81.629997 83.910004 87.239998 92.040001 96.839996 101.64 106.44 108.72 112.05 118.93 124.36 129.64 133.89 137.53999 141.289 145.539 151.009 154.339 158.589 161.63901 164.96899 169.409 171.879 174.159 177.489 182.289 187.089 191.88901 196.689 198.96899 202.299 208.269 212.569 216.339 221.769 226.869 230.49899 235.409 239.99899">(Scheffer et al. 2001, 2009, Andersen et al. 2009, Barnosky </tspan></text>
+<text
+         id="text292"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,163.7011)"><tspan
+           id="tspan294"
+           y="0"
+           x="0 4.25 7.3000002 10.35 14.79 17.26 19.540001 22.59 27.389999 32.189999 36.990002 41.790001 45.25 47.529999 50.580002 56.75 62.049999 66.300003">et al. 2012). The </tspan></text>
+<text
+         id="text296"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,140.6267,163.7011)"><tspan
+           id="tspan298"
+           y="0"
+           x="0 3.47 7.3800001 11.64 14.24 22.040001 26.040001 29.379999 32.619999 37.560001 40.169998 42.93">regime-shift</tspan></text>
+<text
+         id="text300"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,189.6765,163.7011)"><tspan
+           id="tspan302"
+           y="0"
+           x="0 4.23 9.21 14.64 18.870001 23.120001 28.25 31.299999 34.349998 39.650002 44.68 47.209999 52.459999 56.130001 59.18 62.290001 67.599998 71.800003 74.849998 77.900002 80.580002 83.540001 86.589996 90.980003 94.029999 98.260002 102.029 104.589 107.689 110.369 114.629 119.069 121.599">concept holds that if a critical </tspan></text>
+<text
+         id="text304"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,151.7011)"><tspan
+           id="tspan306"
+           y="0"
+           x="0 3.1099999 8.4499998 12.03 16.280001 19.91 25.209999 30.24 32.77 38.049999 41.389999 44.040001 47.709999 51.049999 56.34 60.700001 64.32 68.07 72.369003 77.649002 80.988998 83.668999 89.139 92.478996 96.869003 100.209 105.549 108.229 112.978 118.368 120.828 125.418 128.758 132.98801 137.968 143.438 148.868 153.168 157.468 160.45799 164.757 170.037 173.377 177.047 181.63699 185.256 188.24699 192.49699 200.687 204.02699 207.487 212.367 216.537 221.83701 226.08701 229.147 232.017 236.267 239.97701">threshold is passed in a highly connected system (Scheffer </tspan></text>
+<text
+         id="text308"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,139.7011)"><tspan
+           id="tspan310"
+           y="0"
+           x="0 4.25 7.3000002 11.168 15.608 18.077 20.357 24.226999 29.027 33.827 38.626999 43.426998 46.887001 49.167 53.036999 56.657001 61.966999 66.137001 71.476997 75.347 79.707001 83.376999 87.247002 91.637001 95.507004 99.277 101.887 106.437 110.687 114.397 118.267 123.697 127.947 131.02699 137.797 142.77699 146.44701 151.407 155.27699 158.737 166.146 170.396 175.67599 178.726 182.59599 186.84599 189.896 193.76401 198.20399 200.674 202.95399 206.82401 211.62399 216.424 221.224 226.024 229.48399 231.76401 235.634 240.024">et al. 2009), such as a river network (Dent et al. 2002), a </tspan></text>
+<text
+         id="text312"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,127.7011)"><tspan
+           id="tspan314"
+           y="0"
+           x="0 5.4299998 9.7600002 16.610001 19.690001 23.440001 27.65 30.18 33.139999 36.700001 40.279999 44.529999 47.209999 52.68 55.549999 60.529999 64.110001 68.339996 71.019997 76.410004 81.089996 84.169998 87.790001 90.900002 95.098999 98.088997 102.339 105.419 113.579 117.789 122.379 125.459 130.649 134.879 139.179 144.489 147.569 149.849 152.929 159.099 164.399 168.649 172.399 176.649 179.729 183.35899 188.69901 191.379 194.39799 197.448 201.118 204.198 208.45799 212.758 218.228 221.308 225.608 229.37801 232.028 235.778 240.028">new self-reinforcing state may occur. These shifts can arise </tspan></text>
+<text
+         id="text316"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,391.2911)"><tspan
+           id="tspan318"
+           y="0"
+           x="0 3.79 8.0710001 13.271 16.031 21.441999 23.983 28.653 34.412998 39.473999 43.264 49.023998 51.784 57.294998 61.605 66.667 72.137001 75.837997 81.039001 83.799004 88.18 93.57 98.640999 104.001 107.712 110.253 114.923 120.683 125.704 130.33501 134.66499 138.455 144.215 149.575 153.95599 158.29601 162.76601 168.12601 172.45599 176.20599 181.961 186.342 191.853 197.213 202.97301 207.283 211.61301 216.974 220.005 225.395 229.246 232.006 236.336 240.006">rapidly or inconspicuously over decades and centuries </tspan></text>
+<text
+         id="text320"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,379.2911)"><tspan
+           id="tspan322"
+           y="0"
+           x="0 3.46 10.73 16.040001 20.790001 26.09 30.34 34.009998 38.243999 44.414001 50.043999 54.278 58.528 61.577999 65.811996 70.251999 72.722 75.001999 79.236 84.036003 88.835999 93.636002 98.435997 101.896 104.176 108.41 113.89 118.55 121.23 126.51 130.75999 136.19 140.42 144.67 148.90401 152.524 157.714 162.84399 168.174 173.15401 176.963 180.063 182.743 188.133 192.813 197.047 200.157 205.457 209.707 213.942 219.131 223.36099 227.661 232.97099">(Hughes TP et al. 2013). Evidence supporting the occur</tspan></text>
+<text
+         id="text324"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,565.7185,379.2911)"><tspan
+           id="tspan326"
+           y="0"
+           x="0">-</tspan></text>
+<text
+         id="text328"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,367.2911)"><tspan
+           id="tspan330"
+           y="0"
+           x="0 3.5799999 7.8299999 13.26 17.49 21.74 24.549999 29.530001 32.490002 35.299999 38.919998 42.029999 46.23 49.220001 53.470001 56.279999 60.450001 65.760002 70.059998 75.449997 80.050003 84.300003 87.970001 90.779999 93.459999 98.93 101.74 104.3 108.74 113.61 117.86 120.67 124.969 129.19901 134.299 137.96899 142.55901 146.179 149.16901 153.41901 161.52901 165.19901 168.009 170.659 174.32899 177.13901 183.909 188.119 190.69901 193.229 196.039 200.289 203.909 207.01801 211.328 216.339 218.869 221.51801 225.14799 230.448 234.748 240.028">rence of state changes in lake ecosystems is well established </tspan></text>
+<text
+         id="text332"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,355.2911)"><tspan
+           id="tspan334"
+           y="0"
+           x="0 3.46 10.2 14.5 18.309999 23.639 27.889 33.168999 36.159 40.409 44.118999 46.238998 50.488998 53.539001 55.66 60.099998 62.57 64.849998 66.970001 71.769997 76.57 81.370003 86.169998 88.449997 90.57 97.980003 103.031 108.061 113.141 116.811 118.931 128.271 135.741 137.86099 142.11099 145.161 147.282 151.722 154.192 156.472 158.592 163.392 168.192 172.992 177.79201 181.252 183.532 185.65199 190.62199 195.812 198.862 200.98199 208.98199 214.29201 218.46201 223.802 225.922 228.452 232.702 236.32201 239.992">(Carpenter et al. 1999, Hobbs WO et al. 2012), but much less </tspan></text>
+<text
+         id="text336"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,343.2911)"><tspan
+           id="tspan338"
+           y="0"
+           x="0 2.6500001 6.3200002 9.6149998 14.615 20.045 24.985001 31.865 37.334999 40.630001 44.939999 50.109001 55.099998 60.290001 63.34 66.634003 71.073997 73.484001 76.473999 80.723999 84.494003 89.933998 94.134003 97.234001 99.844002 104.394 108.644 111.938 115.558 118.668 122.978 127.989 130.519 134.769 138.063 141.683 144.793 148.993 151.983 156.233 159.903 163.198 165.87801 171.34801 174.64301 178.412 181.02299 185.57201 189.82201 193.532 196.827 201.127 206.55701 211.83701 215.132 218.252 220.782 225.972 231.162">is known about alternative stable states in river and flood</tspan></text>
+<text
+         id="text340"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,565.7185,343.2911)"><tspan
+           id="tspan342"
+           y="0"
+           x="0">-</tspan></text>
+<text
+         id="text344"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,331.2911)"><tspan
+           id="tspan346"
+           y="0"
+           x="0 5.1700001 7.73 12.03 14.71 20.18 23.280001 27.58 31.809999 36.91 40.580002 45.169998 48.790001 51.779999 56.029999 64.139999 67.809998 70.910004 74.370003 81.779999 86.029999 91.309998 94.360001 97.459999 101.71 104.76 107.861 112.3 114.77 117.05 120.15 124.95 129.75 134.55 139.35001 141.63 144.73 152.14 156.39 159.45 162.32001 166.57001 170.34 175.78 180.08 185.55 188.64999 193.45 198.25 203.05 207.85001 210.13 213.23 216.64 221.77 226.07001 231.5 235.8 240">plain ecosystems (Dent et al. 2002, Heffernan 2008, Ibanez </tspan></text>
+<text
+         id="text348"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,319.2911)"><tspan
+           id="tspan350"
+           y="0"
+           x="0 4.25 7.3000002 9.7969999 14.237 16.705999 18.986 21.486 26.285999 31.086 35.886002 40.686001 44.146">et al. 2012).</tspan></text>
+<text
+         id="text352"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,339.2772,307.2911)"><tspan
+           id="tspan354"
+           y="0"
+           x="0 7.5 10.15 13.77 16.76 21.74 25.51 28.190001 32.449001 36.889 39.418999 43.859001 48.988998 53.348999 57.098999 61.308998 63.839001 66.518997 71.948997 76.198997 79.869003 82.149002 86.588997 89.268997 94.738998 99.179001 102.289 107.589 111.839 116.279 119.859 124.069 126.629 130.82899 133.929 136.539 141.089 145.339 149.77901 154.089 159.16901 162.91901 167.16901 172.599 176.82899 181.07899 185.519 190.49899 193.459 197.899 206.049 211.239 216.519 220.769 224.539 230.009">Historical baselines, in the relative absence of modern </tspan></text>
+<text
+         id="text356"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,295.2911)"><tspan
+           id="tspan358"
+           y="0"
+           x="0 5.1500001 10.46 18.620001 22.92 28.309999 31.98 34.259998 39.82 44.120998 47.701 51.951 57.511002 60.620998 65.920998 70.170998 75.731003 79.960999 84.941002 90.371002 94.600998 98.850998 103.98 106.93 112.27 116.71 119.24 124.8 129.96899 134.21899 139.649 143.819 149.159 157.319 161.619 165.289 170.24899 175.80901 178.679 183.659 187.369 192.929 197.88901 200.569 205.759 211.039 213.649 218.19901 222.44901 226.099 229.769 232.32899 235.408 239.998">humans, are the conceptual benchmark for biodiversity </tspan></text>
+<text
+         id="text360"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,283.2911)"><tspan
+           id="tspan362"
+           y="0"
+           x="0 4.3600001 7.98 11.73 15.98 19.6 23.27 31.42 35.669998 40.949001 43.999001 48.769001 53.069 58.499001 63.778999 68.549004 76.709 81.009003 86.448997 90.789001 95.389 99.639 107.789 112.039 117.318 120.368 122.648 127.418 132.38901 137.578 140.62801 145.39799 147.957 151.007 155.77699 158.427 162.097 166.867 170.44701 174.756 179.116 182.866 187.84599 193.286 197.59599 202.606 205.136 209.386 214.15601 217.146 222.246 227.01601 231.37601 235.006 239.966">assessment and management, but it is reasonable to ask </tspan></text>
+<text
+         id="text364"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,271.2911)"><tspan
+           id="tspan366"
+           y="0"
+           x="0 6.9200001 12.22 16.469999 19.58 24.879999 29.129999 32.84 34.98 40.269001 44.630001 48.25 51.299999 53.439999 57.669998 62.650002 68.080002 73.360001 75.919998 79.018997 81.698997 86.679001 92.069 95.738998 97.878998 101.459 105.709 113.868 118.168 120.848 126.318 128.45799 132.03799 136.248 138.778 143.10699 147.737 152.037 157.317 160.367 162.507 166.08701 170.33701 173.207 177.457 181.037 185.287 190.716 194.946 199.196 201.336 206.666 211.646 214.326 219.606 222.65601 226.326 228.466 231.336 236.31599 240.026">whether past conditions remain relevant reference points for </tspan></text>
+<text
+         id="text368"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,259.2911)"><tspan
+           id="tspan370"
+           y="0"
+           x="0 3.1099999 8.4099998 12.66 16.059999 19.639999 23.889999 27.51 30.499001 35.48 39.189999 43.389 46.488998 49.168999 54.148998 59.618999 63.019001 67.319 72.749001 78.028999 81.429001 89.588997 93.889 99.329002 103.669 108.269 112.519 120.669 124.919 130.198 133.248 136.64799 141.62801 144.588 147.98801 152.218 157.198 162.478 165.468 169.718 177.718 183.047 188.028 191.73801 196.037 200.037 204.627 208.02699 213.177 218.487 226.647 230.94701 236.41701">the restoration and management of contemporary human-</tspan></text>
+<text
+         id="text372"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2772,247.2911)"><tspan
+           id="tspan374"
+           y="0"
+           x="0 4.4400001 6.8499999 9.8400002 14.09 17.67 21.969999 27.25 31.940001 35.610001 40.200001 43.82 46.810001 51.060001 59.169998 62.84 65.120003 69.809998 75.980003 81.279999 85.529999 90.220001 94.449997 99.43 104.86 109.09 113.34 118.47 121.52 126.21 131.19 134.14999">altered systems. The concept of </tspan></text>
+<text
+         id="text376"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,468.1028,247.2911)"><tspan
+           id="tspan378"
+           y="0"
+           x="0 5.25 9.8199997 14.25 18.09 20.58 25.309999 29.25 33 37.639999 40.93 45.330002 48.599998 51.57 55.560001 63.418999">novel ecosystems</tspan></text>
+<text
+         id="text380"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,539.581,247.2911)"><tspan
+           id="tspan382"
+           y="0"
+           x="0 3.46 10.869 15.919 20.948999 26.028999 29.698999">(Hobbs </tspan></text>
+<text
+         id="text384"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,235.2911)"><tspan
+           id="tspan386"
+           y="0"
+           x="0 6.21 9.5 12.99 17.24 20.290001 23.782 28.222 30.691999 32.972 36.462002 41.262001 46.062 50.862 55.661999 59.122002 62.612 67.941002 73.041 76.710999 79.271004 82.320999 85.990997 89.481003 92.591003 97.901001 102.101 105.151 108.641 113.791 119.101 127.261 131.561 137.03101 140.591 143.271 148.701 153.86099 159.17101 163.401 167.701 172.981 176.47099 180.64101 185.951 190.25101 195.64101 200.241 204.491 208.161 211.651 214.64101 219.741 223.231 226.851 232.181">RJ et al. 2013) posits that human-induced changes to spe</tspan></text>
+<text
+         id="text388"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,565.7184,235.2911)"><tspan
+           id="tspan390"
+           y="0"
+           x="0">-</tspan></text>
+<text
+         id="text392"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,223.2911)"><tspan
+           id="tspan394"
+           y="0"
+           x="0 4.23 6.9099998 11.16 14.83 19.15 23.51 27.129999 30.879999 35.130001 43.220001 48.23 50.790001 55.130001 59.73 63.98 67.650002 71.970001 76.269997 81.699997 86.980003 91.300003 95.599998 99.830002 104.93 108.6 113.19 116.81 119.8 124.05 132.24001 136.56 139.58 144.89 150.32001 154.619 157.71899 160.399 165.379 170.849 173.52901 178.91901 183.599 187.91901 193.229 197.44 201.989 206.239 210.55901 215.88901 220.13901 223.908 232.06799">cies assemblages and ecosystem functioning have perma</tspan></text>
+<text
+         id="text396"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,565.7184,223.2911)"><tspan
+           id="tspan398"
+           y="0"
+           x="0">-</tspan></text>
+<text
+         id="text400"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,211.2911)"><tspan
+           id="tspan402"
+           y="0"
+           x="0 5.4299998 9.6800003 14.96 18.07 20.530001 25.120001 28.15 31.249001 34.959 39.258999 44.648998 48.319 51.188999 56.168999 59.938999 68.088997 72.389 77.668999 80.694 88.853996 93.153999 98.393997 102.984 106.014 110.314 114.544 119.644 123.314 127.904 131.524 134.51401 138.76401 146.873 150.543 152.823 155.853 162.02299 167.36301 170.013 173.683 176.70799 180.938 185.918 191.34801 195.578 199.828 204.95799 208.008 211.03799 213.718 221.717 226.88699 229.41701 232.097 236.347 240.017">nently transformed many ecosystems. This concept implies </tspan></text>
+<text
+         id="text404"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,199.2911)"><tspan
+           id="tspan406"
+           y="0"
+           x="0 3.1099999 8.4200001 12.62 15.67 19.719999 24.02 28.25 33.349998 37.02 41.610001 45.229 48.219002 52.469002 60.578999 64.249001 68.299004 73.609001 77.819 82.369003 86.619003 90.668999 94.969002 98.737999 102.508 105.118 109.668 113.968 119.248 123.298 127.498 130.548 134.59801 138.98801 143.03799 148.467 152.797 159.647 163.69701 169.02699 174.007 176.687 181.967 185.017 189.067 194.047 197.007 201.05701 204.63699 208.88699 211.757 216.007 219.58701 223.83701 229.267 233.49699 237.687 239.967">that ecosystems have arrived at a new point of reference. </tspan></text>
+<text
+         id="text408"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,187.2911)"><tspan
+           id="tspan410"
+           y="0"
+           x="0 6.1700001 11.47 15.72 19.299999 23.549999 26.42 31.4 34.98 39.169998 41.450001 44.259998 49.540001 53.209999 55.889999 61.279999 65.959999 68.769997 74.110001 76.760002 80.379997 83.370003 88.349998 92.120003 94.800003 99.029999 101.84 106.97 111.33 115.08 119.29 121.82 124.5 129.92999 134.17999 137.85001 140.66 143.53 148.50999 152.22 155.03 158.14 163.44 167.69 170.5 174.73 179.709 185.099 188.849 193.099 197.099 201.729 205.929 209.02901 211.709 216.689 222.159 224.96899 229.269 234.69901 239.979">Therefore, using historic baselines for the conservation and </tspan></text>
+<text
+         id="text412"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,175.2911)"><tspan
+           id="tspan414"
+           y="0"
+           x="0 8.1599998 12.46 17.9 22.24 26.84 31.09 39.240002 43.490002 48.77 51.82 54.939999 59.919998 62.880001 66 70.230003 74.480003 78.289001 81.399002 85.699997 88.379997 93.849998 96.970001 102.12 107.43 115.59 119.89 125.36 128.92 134.2 139.17999 147.37 150.05 155.49001 159.69 162.67999 166.979 172.259 175.379 179.679 183.909 189.009 192.679 197.269 200.888 203.879 208.129 216.23801 219.908 223.028 231.188 235.39799 239.98801">management of certain human-dominated ecosystems may </tspan></text>
+<text
+         id="text416"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,163.2911)"><tspan
+           id="tspan418"
+           y="0"
+           x="0 5.1700001 9.4200001 12.42 15.1 20.540001 24.74 29.870001 34.990002 38.57 43.560001 48.68 52.450001 55.16 59.360001 62.349998 66.599998 69.599998 73.059998 77.660004 82.970001 88.25 90.93 96.32 101 104 108.8 113.6 118.4 123.2 126.66 128.94 131.94 140.681 144.931 147.931 151.55099 156.86099 161.601 166.2 170.45 174.07001 177.12 180.12 183.23 188.53999 192.74001 195.78999 198.78999 201.89999 207.24001 209.89 213.56 216.56 221.24001 225.44 230.67999 233.67999 236.33 240">be inappropriate (Suding 2011). We suggest that this gap is </tspan></text>
+<text
+         id="text420"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,151.2911)"><tspan
+           id="tspan422"
+           y="0"
+           x="0 4.25 7.8699999 13.2 17.499001 21.729 24.438999 28.879 31.459 33.918999 38.508999 41.008999 45.398998 49.699001 54.888 57.877998 62.127998 64.627998 67.498001 72.477997 76.188004 78.688004 84.028 86.708 91.458 96.848 99.307999 103.898 106.398 110.838 113.248 116.238 120.488 124.068 128.368 133.64799 136.14799 139.20799 142.78799 147.03799 150.668 155.778 162.62801 166.827 169.817 174.067 177.77699 180.27699 184.577 188.80701 193.907 197.577 202.16701 205.787 208.77699 213.02699 221.136 224.806">especially acute for highly altered freshwater ecosystems.</tspan></text>
+<text
+         id="text424"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,339.2771,139.2911)"><tspan
+           id="tspan426"
+           y="0"
+           x="0 7.4099998 11.66 15.24 19.43 21.709999 26.01 32.779999 37.029999 41.330002 45.580002 50.299999 54.598999 62.789001 65.469002 70.899002 75.149002 79.448997 84.579002 88.939003 92.689003 96.899002 99.429001 102.109 107.539 111.789 115.459 119.759 125.039 128.789 133.089 138.369 142.66901 145.659 150.759 155.05901 159.41901 163.039 166.789 171.039 174.659 178.32899 182.629 185.739 191.039 195.289 199.589 203.209 206.319 210.519 213.509 217.759 222.05901 227.039 229.99899">Here, we examine baselines used to assess the state of </tspan></text>
+<text
+         id="text428"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.2771,127.2911)"><tspan
+           id="tspan430"
+           y="0"
+           x="0 4.756 7.296 12.352 17.488001 21.934999 24.475 30.155001 33.221001 36.806999 41.067001 44.702999 49.82 56.68 60.886002 63.882 68.141998 71.862 77.542 82.509003 85.198997 90.394997 95.684998 98.301003 102.857 107.117 110.773 114.453 117.019 120.105 124.705 130.38499 134.69099 140.12801 145.418 151.09801 155.358 160.088 165.26401 167.804 172.791 176.377 180.63699 186.317 189.433 194.739 198.99899 204.679 208.399 212.605 215.711 218.401 223.38699 228.83299 233.28 235.82001 240.07001">global freshwater biodiversity and explore the rationale </tspan></text>
+<g
+         transform="translate(71.276,109.7516)"
+         id="g432"><path
+           id="path434"
+           style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 498,0" /></g><text
+         id="text436"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-It;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,94.5016)"><tspan
+           id="tspan438"
+           y="0"
+           x="0 4.5040002 6.6560001 10.416 14.208 17.264 19.416 22.608 26.808001 29.808001">BioScience</tspan></text>
+<text
+         id="text440"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,106.2837,94.5016)"><tspan
+           id="tspan442"
+           y="0"
+           x="0 3.8399999 7.6799998 9.5039997 11.504 15.344 19.184 23.024 27.184 31.024 34.863998 38.703999 40.528 42.528 48.144001 50.144001 55.080002 59.32 62.720001 64.720001 69.919998 74.071999 76.559998 80.800003 84.783997 87.751999 90.519997 93.456001 96.223999 98.223999 102.064 105.904 109.744 113.584 115.408 117.408 121.912 126.128 130.136 132.16 134.28 137.18401 141.424 144.864 149.088 151.088 155.024 158.696 160.696 166.616 170.392 172.68719 176.672 179.536 183.75999 185.75999 191.304 195.67999 197.76801 201.408 204.808 207.728 210.664 212.71201 215.17599 218.84801 220.84801 225.28 228.144 231.54401 234.44 237.37601 239.37601 243.36079 247.7368 249.7368 253.8728 257.24081 261.4888 265.0408 267.06479 269.4328 271.4328 275.41681 277.78479 279.78479 282.2728 286.51279 289.91281 291.91281 297.41681 303.9368 307.33679 310.35281 312.4968 315.90479 319.34479 323.72079 325.72079 328.3208 332.63281 335.52881 338.00879 340.05679 342.41599 346.56799 348.95999 352.35999 354.35999 358.34399 360.71201 362.71201 367.35199 369.496 373.51999 375.54401 379.62399 383.40799 385.552 388.9592 392.5112 394.53519 396.53519 400.43921 403.82321 405.96719 409.36719 413.71121 417.09521 420.49521 423.43121 425.25519 427.25519 432.80719 434.87119 436.8952 438.8952 441.9104 444.05441 447.8544 451.9744 454.4144 457.3504">65: 798–811. © The Author(s) 2015. Published by Oxford University Press on behalf of the American Institute of Biological Sciences. All rights </tspan></text>
+<text
+         id="text444"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,84.5016)"><tspan
+           id="tspan446"
+           y="0"
+           x="0 2.8640001 6.2639999 9.2639999 12.664 15.8632 19.503201 22.943199 27.1192 28.943199 30.943199 35.023201 39.007198 41.975201 43.975201 48.223202 51.623199 54.639198 61.1912 63.310398 66.206398 69.142403 71.2864 75.270401 79.582397 82.518402 84.3424 86.3424 90.478401 92.502403 95.950401 99.4384 102.4384 105.8384 107.8384 111.2384 114.0864 120.6144 124.0544 126.2384 128.26241 130.0864 132.0864 134.17439 138.1664 142.4144 145.4296 149.78239 153.3344 155.3344 158.2704 160.09441 164.3576 167.7576 170.77361 177.32561 179.4456 182.3416 185.2776 187.4216 191.4048 195.7168 198.6528 204.6768 208.66879 212.8208 216.78081 218.6048 221.9888 225.97279 232.5248 234.3488">reserved. For Permissions, please e-mail: journals.permissions@oup.com. </tspan></text>
+<text
+         id="text448"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Minion Pro';-inkscape-font-specification:MinionPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,71.276,74.5016)"><tspan
+           id="tspan450"
+           y="0"
+           x="0 4.224 8.2080002 10.352 12.176 16.016001 19.856001 21.68 25.52 29.360001 33.200001 37.040001 39.688 43.655201 45.799198 49.8792 52.8792 56.263199 58.4072 61.055199 65.023201 67.111198 70.815201 74.655197 78.495201 82.335197 367.34399 372.664 376.832 380.53601 383.97601 388.32001 391.70401 395.104 397.104 402.42401 405.80801 409.19199 412.59201 415.48801 418.42401 420.42401 424.52802 428.74399 432.75281 434.77679 436.92081 440.328 443.68799 446.168 448.31201 452.29599 456.672 458.672 462.51199 466.35199 468.35199 470.728 475.0152 476.98318 480.65521 482.65521 486.49521 490.33521 494.1752">doi:10.1093/biosci/biv092 Advance Access publication 22 July 2015</tspan></text>
+<g
+         id="g452"><g
+           clip-path="url(#clipPath456)"
+           id="g454"><g
+             transform="translate(15,805.8661)"
+             id="g460"><path
+               id="path462"
+               style="fill:none;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 0,0 -15,0 m 627.282,0 15,0 M 0,-782.362 l -15,0 m 627.282,0 15,0 M 8.504,8.504 l 0,15 m 0,-814.37 0,-15 m 595.274,814.37 0,15 m 0,-814.37 0,-15" /></g><g
+             transform="translate(15,805.8661)"
+             id="g464"><path
+               id="path466"
+               style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 0,0 -15,0 m 627.282,0 15,0 M 0,-782.362 l -15,0 m 627.282,0 15,0 M 8.504,8.504 l 0,15 m 0,-814.37 0,-15 m 595.274,814.37 0,15 m 0,-814.37 0,-15" /></g></g></g></g><g
+       id="g468"><g
+         id="g470"><text
+           id="text472"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:Courier;-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,26.5,41.5)"><tspan
+             id="tspan474"
+             y="0"
+             x="0 3.5999999 7.1999998 10.8 14.4 18 21.6 25.200001 28.799999 32.400002 36 39.599998 43.200001 46.799999 50.400002 54 57.599998 61.200001 64.800003 68.400002 72 75.599998 79.199997 82.800003 86.400002 90 93.599998 97.199997 100.8 104.4 108 111.6 115.2 118.8 122.4 126 129.60001 133.2 136.8 140.39999 144 147.60001 151.2 154.8 158.39999 162 165.60001 169.2 172.8 176.39999 180 183.60001 187.2 190.8 194.39999 198 201.60001 205.2 208.8 212.39999 216 219.60001 223.2 226.8 230.39999 234 237.60001 241.2 244.8 248.39999 252 255.60001 259.20001 262.79999 266.39999 270 273.60001 277.20001 280.79999 284.39999 288 291.60001 295.20001 298.79999">Downloaded from https://academic.oup.com/bioscience/article-abstract/65/8/798/240565</tspan></text>
+<text
+           id="text476"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:Courier;-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,26.5,35.5)"><tspan
+             id="tspan478"
+             y="0"
+             x="0 3.5999999 7.1999998 10.8 14.4 18 21.6 25.200001">by guest</tspan></text>
+<text
+           id="text480"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:Courier;-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,26.5,29.5)"><tspan
+             id="tspan482"
+             y="0"
+             x="0 3.5999999 7.1999998 10.8 14.4 18 21.6 25.200001 28.799999 32.400002 36 39.599998 43.200001 46.799999 50.400002 54 57.599998 61.200001 64.800003">on 18 November 2017</tspan></text>
+</g></g></g></svg>
