@@ -21,6 +21,7 @@ figures/Captura
 sthpcehf88g.html
 653gqrbqog.html
 g2mc35v4i2g.html
+akchb84sfd8.html
 v9becd9j2ho.html
 rf9bntu2om.html
 s99v82hp8l8.html
