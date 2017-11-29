@@ -31,7 +31,6 @@ tob2ch99s2o.html
 mupio63n9g.html
 figures/Figure-28-Conceptual-model-of-interrelations-among-key-habitat-and-ecosystem-variables
 12s1viqjb68.html
-umn8bvdsem8.html
 figures/Screen Shot 2017-11-27 at 2-25-38 pm
 ka1pphlq7j.html
 63t0inejm08.html
