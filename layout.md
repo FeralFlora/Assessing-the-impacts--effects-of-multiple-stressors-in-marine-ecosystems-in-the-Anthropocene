@@ -20,7 +20,6 @@ e4vk7cvq8k4.html
 figures/Capture
 4c1lbu4k6cg.html
 44sb1fvbadg.html
-6on9srvpj8.html
 7cek4n1pu6.html
 figures/Captura
 sthpcehf88g.html
