@@ -41,6 +41,8 @@ ka1pphlq7j.html
 265o51hla5o.html
 3h6b5kth2g8.html
 7m5h8qohp6g.html
+figures/31
+pcrc6hgunq8.html
 10bae.html
 l3aqloleqb8.html
 tml1hakjko.html
