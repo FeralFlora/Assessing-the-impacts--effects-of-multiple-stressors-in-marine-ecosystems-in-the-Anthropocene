@@ -10,7 +10,6 @@ figures/Mind-Map Multiple Stressors Impact Assessment Methods1
 4m97gpppud4.html
 dp78qjaqbd8.html
 8vllehh0si8.html
-figures/3
 p5vudff6ulg.html
 figures/map
 es3ddrbcga8.html
