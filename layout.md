@@ -27,10 +27,6 @@ fr3j68378so.html
 bcs1lqgquj4.html
 2j5q53iedtk.html
 i02d58hesio.html
-672r8khnkk4.html
-6a67771oin4.html
-6u7nra0u99g.html
-in0rrajetp4.html
 g83lv2edb6k.html
 gu5ll5d7o38.html
 rf9bntu2om.html
