@@ -35,8 +35,6 @@ figures/Figure-28-Conceptual-model-of-interrelations-among-key-habitat-and-ecosy
 figures/Screen Shot 2017-11-27 at 2-25-38 pm
 ka1pphlq7j.html
 63t0inejm08.html
-59nnisg9gk.html
-265o51hla5o.html
 sv3e5k9vhn8.html
 3h6b5kth2g8.html
 7m5h8qohp6g.html
