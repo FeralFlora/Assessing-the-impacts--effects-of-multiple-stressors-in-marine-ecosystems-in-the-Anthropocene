@@ -22,7 +22,6 @@ figures/Capture
 figures/STAGES, steps
 sthpcehf88g.html
 653gqrbqog.html
-rf9bntu2om.html
 s99v82hp8l8.html
 tob2ch99s2o.html
 6cvmvjh701g.html
