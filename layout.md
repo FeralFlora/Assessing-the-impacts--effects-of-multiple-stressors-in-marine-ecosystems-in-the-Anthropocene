@@ -31,8 +31,6 @@ i02d58hesio.html
 6a67771oin4.html
 6u7nra0u99g.html
 in0rrajetp4.html
-s1t8jbre7m8.html
-s4d4n5r4gcs.html
 g83lv2edb6k.html
 gu5ll5d7o38.html
 rf9bntu2om.html
