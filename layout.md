@@ -26,8 +26,6 @@ sthpcehf88g.html
 2g2kie3uo9o.html
 g7p0plq0sos.html
 japklj7mt6k.html
-qd5ol1qa1ng.html
-j2ukim1fe9c.html
 gu5ll5d7o38.html
 rf9bntu2om.html
 s99v82hp8l8.html
