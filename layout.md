@@ -1,6 +1,5 @@
 abstract.html
 untitled.html
-figures/11
 0bi1dlel1hg.html
 figures/OCEAN
 s7ubo03e2jg.html
