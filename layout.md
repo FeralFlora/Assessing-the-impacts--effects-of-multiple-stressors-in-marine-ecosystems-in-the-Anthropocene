@@ -24,7 +24,6 @@ figures/STAGES, steps
 sthpcehf88g.html
 653gqrbqog.html
 fr3j68378so.html
-2j5q53iedtk.html
 i02d58hesio.html
 g83lv2edb6k.html
 gu5ll5d7o38.html
