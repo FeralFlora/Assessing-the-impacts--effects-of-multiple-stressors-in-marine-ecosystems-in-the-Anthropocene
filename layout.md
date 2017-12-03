@@ -15,7 +15,6 @@ figures/Bildschirmfoto 2017-11-24 um 07-23-42
 pbjtccpsdp.html
 figures/criteria table 2
 e4vk7cvq8k4.html
-3rp57p0vhbg.html
 figures/Capture
 4c1lbu4k6cg.html
 figures/STAGES, steps
