@@ -20,7 +20,6 @@ e4vk7cvq8k4.html
 figures/Capture
 4c1lbu4k6cg.html
 figures/STAGES, steps
-figures/Captura
 sthpcehf88g.html
 653gqrbqog.html
 fr3j68378so.html
