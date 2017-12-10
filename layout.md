@@ -20,6 +20,8 @@ figures/Capture
 figures/STAGES, steps
 sthpcehf88g.html
 653gqrbqog.html
+figures/biv092fig2
+fu6ku9ric9g.html
 s99v82hp8l8.html
 tob2ch99s2o.html
 6cvmvjh701g.html
