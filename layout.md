@@ -26,6 +26,8 @@ figures/baseline flowchart
 s1iltd61rug.html
 figures/Ecosystem health model
 mri4fgdoi18.html
+figures/interaction web
+amlni2ibjio.html
 s99v82hp8l8.html
 tob2ch99s2o.html
 6cvmvjh701g.html
